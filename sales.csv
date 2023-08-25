@@ -1,0 +1,4 @@
+order_id,customer_id,product_name,quantity,order_date,total_price
+12345,67890,Fitbar,2,2023-05-10,200000
+23456,78901,Prenagen,3,2023-05-12,300000
+34567,89012,HiC1000,1,2023-05-15,100000
